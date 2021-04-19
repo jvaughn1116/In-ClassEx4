@@ -3,7 +3,7 @@
  *Course: CSCI 1302
  *Assignment #: PAssign10
  *Description: Use the In-class4 program and expand it by converting the distance and capacity when the user switches from MPG to KPL
- *Link: https://github.com/jvaughn1116/hello-world
+ *Link: https://github.com/jvaughn1116/In-ClassEx4
  */
 
 package ch16;
